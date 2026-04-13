@@ -3,7 +3,7 @@
   "name": "SMA Sniper — Steam Market Assistant",
   "short_name": "SMA Sniper",
   "version": "1.4",
-  "description": "Instantly opens the buy dialog for a specific Steam Market listing via URL parameters. Supports auto-search on adjacent pages if the listing isn't found.",
+  "description": "Opens the buy dialog for a Steam Market listing via URL parameters. Searches adjacent pages if the listing isn't found.",
   "permissions": [],
   "host_permissions": ["https://steamcommunity.com/*"],
   "content_scripts": [

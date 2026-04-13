@@ -9,3 +9,5 @@ Thumbs.db
 # Build artifacts / zip packages
 *.zip
 dist/
+src.crx
+src.pem

@@ -7,7 +7,7 @@ A Chrome extension that instantly opens the buy dialog for a specific Steam Mark
 Open any Steam Market listings page and add these URL parameters:
 
 ```
-https://steamcommunity.com/market/listings/{appid}/{item_name}?page=N&listingid=XXXXXXXXXXXXXXX
+https://steamcommunity.com/market/listings/{appid}/{item_name}?page={N}&listingid={XXXXXXXXXXXXXXX}&count={M}
 ```
 
 | Parameter   | Required | Description                                          |
@@ -51,6 +51,10 @@ This will open the page, navigate to page 3, and automatically click **Buy** on 
 | `host_permissions: steamcommunity.com`  | Required to inject the sniper script into Steam Market pages  |
 
 No data is collected or sent anywhere. The extension only runs on Steam Market listing pages when `page` and `listingid` URL parameters are present.
+
+## Privacy
+
+https://fdc-tools.github.io/steam-market-assistan-sniper/privacy
 
 ## License
 
