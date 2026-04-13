@@ -1,0 +1,11 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts / zip packages
+*.zip
+dist/
