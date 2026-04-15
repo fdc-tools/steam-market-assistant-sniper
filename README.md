@@ -26,7 +26,7 @@ A status indicator is shown in the bottom-right corner while searching.
 
 ### From the Chrome Web Store
 
-*(Coming soon)*
+[*Extension link*](https://chromewebstore.google.com/detail/ckalpijkdadfppmpckaldingegpepapk)
 
 ### Manual (Developer mode)
 
