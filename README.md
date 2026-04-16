@@ -54,7 +54,7 @@ No data is collected or sent anywhere. The extension only runs on Steam Market l
 
 ## Privacy
 
-https://fdc-tools.github.io/steam-market-assistan-sniper/privacy
+https://fdc-tools.github.io/steam-market-assistant-sniper/privacy
 
 ## License
 
